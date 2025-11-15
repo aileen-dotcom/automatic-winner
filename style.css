@@ -244,3 +244,8 @@ main h2:first-of-type {
 .personal-intro p:last-child {
   margin-bottom: 0;
 }
+
+/* Resume page specific styles */
+main h1:first-child {
+  text-align: center;
+}
